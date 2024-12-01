@@ -1,0 +1,6 @@
+system.c:26:6:sensor_diplay	24	static
+system.c:85:6:LCD_show_sensor	32	static
+system.c:113:6:system_loop	8	static
+system.c:121:6:store_power_data	24	static
+system.c:131:5:get_digit_count	24	static
+system.c:142:6:plot_power_chart	104	static
